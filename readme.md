@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JVictorCastro-22&color=007ec6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/JVictorCastro-22?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github" alt="GitHub Repositories"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-castro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 💻 **Desenvolvedor de Software & Game Creator** apaixonado por transformar lógica em aplicações funcionais e criar experiências interativas marcantes. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Estácio, unindo uma base sólida em Administração e TI com código limpo e resolução de problemas.
@@ -32,6 +33,5 @@
 
 ### 🚀 O que estou construindo / Projetos em Destaque
 
-*   **Sistema de Gestão de Farmácia (`sistema_farmacia`):** Aplicação web desenvolvida com Python (Flask) e MySQL para controle otimizado de estoque e rotinas administrativas.
-*   **Penguin Odyssey:** Um jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite.
-
+* **[StockMed](https://github.com/JVictorCastro-22/StockMed):** Sistema web corporativo de gestão de farmácia desenvolvido com Python (Flask) e MySQL, contando com autenticação segura, controle de permissões (RBAC) e identidade visual própria.
+* **Penguin Odyssey:** Jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite.
