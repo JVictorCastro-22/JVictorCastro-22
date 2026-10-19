@@ -33,4 +33,4 @@
 ### 🚀 O que estou construindo / Projetos em Destaque
 
 * **[StockMed](https://github.com/JVictorCastro-22/StockMed):** Sistema web corporativo de gestão de farmácia desenvolvido com Python (Flask) e MySQL, contando com autenticação segura, controle de permissões (RBAC) e identidade visual própria.
-* **[Penguin Odyssey](https://castro-play-studio.itch.io/penguin-odyssey-demo-001):** Jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite. **[🎮 Jogue a Demo Aqui!](https://castro-play-studio.itch.io/penguin-odyssey-demo-001)**
+* **[Penguin Odyssey](https://castro-play-studio.itch.io/penguin-odyssey-demo-001):** Jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite.
